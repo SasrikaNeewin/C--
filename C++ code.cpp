@@ -171,7 +171,7 @@ void product::displayProductDetails(){
 
 }
 
-//Administrator class
+//Administrators class
 class Administator{
 	private:
 		int AdminId;
